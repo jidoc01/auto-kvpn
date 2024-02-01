@@ -1,0 +1,17 @@
+[package]
+name = "auto-kvpn"
+version = "0.1.0"
+edition = "2021"
+authors = [ "Jung Hyun Kim (jidoc01@gmail.com)" ]
+
+[dependencies]
+thirtyfour = "0.32.0-rc.9"
+url = "*"
+serde = "*"
+serde_json = "*"
+serde_derive = "*"
+imap = "*"
+native-tls = "*"
+toml = "*"
+tokio = "*"
+anyhow = "*"

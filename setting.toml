@@ -1,0 +1,7 @@
+[kaist]
+id = 'jidoc01'
+pw = 'PASSWORD'
+
+[gmail]
+id = 'jidoc01'
+imap_token = 'aaaa bbbb cccc dddd'
